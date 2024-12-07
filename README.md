@@ -1,7 +1,7 @@
 # macFlood
 exercise for chapter 2 of Ethical Hacking: A Hands on Introduction to breaking in
 
-This is an attempt to write a python script that performs a MAC Flooding attack, which fills the CAM on a router/switch. This will cause a message/packet to be broadcast across all ports. I have run both versions of the script successfully but have either  
+This is an attempt to write a python script that performs a MAC Flooding attack, which fills the CAM on a router/switch. This will cause frames to be broadcast across all ports. I have run both versions of the script successfully but have either  
     * Not set up my lab correctly  
     * Don't realize that my firewall/router VM is not vulnerable to this attack  
     * Am not looking in the correct place for results  
